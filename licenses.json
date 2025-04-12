@@ -1,0 +1,282 @@
+{
+  "YRCODE001": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE002": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE003": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE004": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE005": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE006": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE007": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE008": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE009": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE010": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE011": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE012": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE013": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE014": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE015": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE016": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE017": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE018": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE019": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE020": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE021": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE022": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE023": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE024": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE025": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE026": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE027": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE028": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE029": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE030": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE031": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE032": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE033": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE034": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE035": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE036": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE037": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE038": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE039": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE040": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE041": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE042": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE043": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE044": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE045": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE046": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE047": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE048": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE049": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "YRCODE050": {
+    "type": "yearly",
+    "expires": "2026-04-12"
+  },
+  "WKCODE001": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE002": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE003": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE004": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE005": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE006": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE007": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE008": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE009": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE010": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE011": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE012": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE013": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE014": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE015": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE016": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE017": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE018": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE019": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  },
+  "WKCODE020": {
+    "type": "weekly",
+    "expires": "2025-04-19"
+  }
+}
