@@ -1,0 +1,74 @@
+
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: #f5f7fa;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    text-align: center;
+}
+header {
+    padding: 40px 20px;
+    background: #101d42;
+    color: white;
+}
+.logo {
+    width: 100px;
+    border-radius: 12px;
+}
+.description, .subinfo, .available {
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+.features {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+.features li {
+    margin: 5px 0;
+}
+.pay-btn {
+    display: inline-block;
+    background: #00c896;
+    color: white;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+section#payment {
+    padding: 30px 20px;
+}
+.payment-method {
+    background: #fff;
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: right;
+}
+.example-img {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 10px;
+}
+.telegram-btn {
+    display: inline-block;
+    background: #2AABEE;
+    color: white;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+footer {
+    background: #101d42;
+    color: white;
+    padding: 15px;
+    font-size: 0.9em;
+    margin-top: 40px;
+}
