@@ -1,0 +1,354 @@
+{
+  "codes": [
+    {
+      "code": "YRCODE001",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE002",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE003",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE004",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE005",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE006",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE007",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE008",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE009",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE010",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE011",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE012",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE013",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE014",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE015",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE016",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE017",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE018",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE019",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE020",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE021",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE022",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE023",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE024",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE025",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE026",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE027",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE028",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE029",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE030",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE031",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE032",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE033",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE034",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE035",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE036",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE037",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE038",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE039",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE040",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE041",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE042",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE043",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE044",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE045",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE046",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE047",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE048",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE049",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "YRCODE050",
+      "type": "Yearly",
+      "expires": "2026-04-13"
+    },
+    {
+      "code": "WKCODE001",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE002",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE003",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE004",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE005",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE006",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE007",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE008",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE009",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE010",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE011",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE012",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE013",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE014",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE015",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE016",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE017",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE018",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE019",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    },
+    {
+      "code": "WKCODE020",
+      "type": "Weekly",
+      "expires": "2025-04-20"
+    }
+  ]
+}
